@@ -1,0 +1,42 @@
+.Home {
+  font-size: 35px;
+}
+
+.App-buttons {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.button {
+  background-color: #cfc ;
+  padding: 10px ;
+  border: 1px solid green ;
+}
+
+.topButton {
+  position: relative;
+  top: 50px ;
+}
+
+.botButton {
+  position: relative;
+  top: 100px ;
+}
+
+.accesButton {
+  position: relative;
+  top: 150px;
+}
+
+.dressButton {
+  position: relative;
+  top: 200px ;
+}
+
+.shoesButton {
+  position: relative;
+  top: 250px
+}
